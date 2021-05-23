@@ -1,0 +1,65 @@
+export default {
+      backIcon:require('./../icons/back.png'),
+      backContainer:require('./../icons/backContainer.png'),
+      facebookIcon:require('./../icons/facebook.png'),
+      googleIcon:require('./../icons/google.png'),
+      appleIcon:require('./../icons/apple.png'),
+      personIcon:require('./../icons/person.png'),
+      logoIcon:require('./../icons/logo.png'),
+      coprateIcon:require('./../icons/coprate.png'),
+      passwordCheckIcon:require('./../icons/show.png'),
+      hideEye:require('./../icons/hide_eye.png'),
+      backgroundImage:require('./../icons/background.png'),
+
+      homeIcon:require('./../icons/home_icon.png'),
+      secondIcon:require('./../icons/second_tab.png'),
+      thirdIcon:require('./../icons/camera_tab.png'),
+      fourIcon:require('./../icons/chat_tab.png'),
+      fifthIcon:require('./../icons/profile.png'),
+      volvoTwoIcon:require('./../icons/volvo_two.png'),
+      searchIcon:require('./../icons/search.png'),
+      filterIcon:require('./../icons/fliter.png'),
+      araziIcon:require('./../icons/arazi.png'),
+      ticariIcon:require('./../icons/ticari.png'),
+      hatchbackIcon:require('./../icons/hatchback.png'),
+      hamIcon:require('./../icons/ham.png'),
+      bannerIcon:require('./../icons/banner.png'),
+
+      setIcon:require('./../icons/set.png'),
+      carIcon:require('./../icons/car.png'),
+      roadIcon:require('./../icons/road.png'),
+      pumpIcon:require('./../icons/pump.png'),
+      locationIcon:require('./../icons/location.png'),
+      coinIcon:require('./../icons/coin.png'),
+      listImageIcon:require('./../icons/list_img.png'),
+      listImageIconTwo:require('./../icons/list_img2.png'),
+      activeHeartIcon:require('./../icons/active_heart.png'),
+      unActiveIcon:require('./../icons/unactive_heart.png'),
+      volvoIcon:require('./../icons/volvo.png'),
+      listBackgroundIcon:require('./../icons/list_background.png'),
+      audiIcon:require('./../icons/audi.png'),
+
+     
+
+
+      backgroundIcon:require('./../icons/background_image.jpeg'),
+      buildIcon:require('./../icons/home.png'),
+      meetingIcon:require('./../icons/calandar.png'),
+      supplierIcon:require('./../icons/supplier.png'),
+      timelineIcon:require('./../icons/timeline3.png'),
+      homeIcon:require('./../icons/grid.png'),
+      listIcon:require('./../icons/listlayout_tab.png'),
+      chatIcon:require('./../icons/chat.png'),
+      bellIcon:require('./../icons/bell.png'),
+      profileIcon:require('./../icons/user_profile.png'),
+      personIcon:require('./../icons/temp_person.png'),
+      hamIcon:require('./../icons/hamburger.png'),
+      logoIcon:require('./../icons/logo.png'),
+      timeLineIcon:require('./../icons/timeline.png'),
+      forwardIcon:require('./../icons/forward.png'),
+      tickIcon:require('./../icons/tick.png'),
+
+
+
+
+}

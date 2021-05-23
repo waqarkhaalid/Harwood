@@ -1,0 +1,83 @@
+import { StyleSheet } from 'react-native';
+import colors from './../../../utils/colors'
+import fonts from './../../../assets/fonts/'
+export const styles = StyleSheet.create({
+  safeStyle:{ 
+    flex: 1,
+    alignItems:'center',
+  },
+  gradientStyle:{
+    flex:1,
+    width:'100%',
+    height:'100%',
+  },
+  logoStyle:{
+    height:85,
+    width:'50%',
+    resizeMode:'contain',
+    alignSelf:'center',
+    marginTop:40
+  },
+  logoTxt:{
+    color:colors.white,
+    alignSelf:'center',
+    textAlign:'center',
+    marginLeft:10,
+    marginTop:-5,
+    fontFamily:fonts.Regular,
+
+  },
+  loginTxt:{
+    color:'#B7BEC3',
+    alignSelf:'center',
+    marginTop:15,
+    fontFamily:fonts.Bold,
+  },
+  barContainer:{
+    width:'100%',
+    flexDirection:'row',
+    alignItems:'center',
+    justifyContent:'space-between',
+    marginTop:20,
+  },
+  bar:{
+    width:'35%',
+    height:.5,
+    backgroundColor:colors.white,
+  },
+  barTxt:{
+    color:colors.white,
+    alignSelf:'center',
+    fontFamily:fonts.Regular
+    },
+    socialContainer:{
+      width:'100%',
+      flexDirection:'row',
+      alignItems:'center',
+      justifyContent:'center',
+      marginTop:18
+    },
+    socialIconStyle:{
+      width:33,
+      height:33,
+      resizeMode:'contain'
+    },
+    yeniTxt:{
+      color:'white',
+      fontSize:12,
+      fontWeight:'600',
+      alignSelf:'center',
+      textAlign:'center',
+      marginTop:20,
+      lineHeight:17,
+      fontFamily:fonts.Medium,
+    },
+    blueTxt:{
+      color:colors.skyBtn,
+      fontSize:12,
+      fontWeight:'600',
+      alignSelf:'center',
+      textAlign:'center',
+      fontWeight:'400'
+    }
+});
